@@ -1,5 +1,5 @@
 # Additional-Graphs-of-SPG
-Additional Experimental Graphs of the Stackelberg Prediction Game
+This anonymous repository is conducted for additional experimental graphs of the Stackelberg Prediction Game
 
 ## Graph Explanation
 "spg_large_fmeasure.jpg" is the F-measure of our method, logistic classification and BS methods;
